@@ -1,0 +1,3 @@
+[submodule "AdminGui/js/bimsurfer"]
+	path = AdminGui/js/bimsurfer
+	url = https://github.com/opensourceBIM/BIMsurfer.git
