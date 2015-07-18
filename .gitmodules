@@ -1,3 +1,6 @@
 [submodule "AdminGui/js/bimsurfer"]
 	path = AdminGui/js/bimsurfer
 	url = https://github.com/opensourceBIM/BIMsurfer.git
+[submodule "BIMviews"]
+	path = BIMviews
+	url = git@github.com:matt-williams/bimvie.ws.git
